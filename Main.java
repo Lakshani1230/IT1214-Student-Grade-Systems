@@ -70,7 +70,7 @@ class Main{
 					}
 					
                     break;
-					git add .
+					
 //Add student input functionality
                 case 4:
 					  if (studentList.isEmpty()) {
