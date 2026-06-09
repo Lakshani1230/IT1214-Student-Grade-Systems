@@ -4,7 +4,7 @@ class Student{
 	private String studentName;
 	private int marks;
 	
-	
+	//Add student input functionality
 	public Student(String studentId,String studentName,int marks){
 		this.studentId=studentId;
 		this.studentName=studentName;
