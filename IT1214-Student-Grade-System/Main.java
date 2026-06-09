@@ -80,6 +80,7 @@ class Main{
 						for (Student s : studentList) {
 							sum = sum + s.getMarks();
 						}
+						//AVG
 						double avg = sum / studentList.size();
 						System.out.println("Total number of Students = " + studentList.size());
 						System.out.println("Average marks of Students = " + avg);
